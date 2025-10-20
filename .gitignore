@@ -1,0 +1,4 @@
+# Archivos y carpetas de CLion y CMake
+cmake-build-debug/
+cmake-build-release/
+.idea/
