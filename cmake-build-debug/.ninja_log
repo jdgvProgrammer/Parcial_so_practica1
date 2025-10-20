@@ -1,0 +1,7 @@
+# ninja log v6
+4	420	7826382800164853	build.ninja	3aeed0ca529aeef
+9	566	7826382847265635	CMakeFiles/MLQ_Scheduler_CLion.dir/RoundRobinQueue.cpp.obj	4905f5422a4eca8b
+14	571	7826382847314497	CMakeFiles/MLQ_Scheduler_CLion.dir/FCFSQueue.cpp.obj	73a5fa2da4262f76
+20	628	7826382847369687	CMakeFiles/MLQ_Scheduler_CLion.dir/MLQScheduler.cpp.obj	d397ddbb8ef9227d
+2	1142	7826382847193720	CMakeFiles/MLQ_Scheduler_CLion.dir/main.cpp.obj	aaa9269cf429ffbb
+1142	1429	7826382858597155	MLQ_Scheduler_CLion.exe	910a1de4979c97ce

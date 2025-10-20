@@ -1,0 +1,3 @@
+C:/Users/Hulk1/CLionProjects/SistemasOperativos/cmake-build-debug/CMakeFiles/MLQ_Scheduler_CLion.dir
+C:/Users/Hulk1/CLionProjects/SistemasOperativos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hulk1/CLionProjects/SistemasOperativos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
